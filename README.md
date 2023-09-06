@@ -9,7 +9,7 @@
 
 <hr>
 <p align="center">
- <a name="coffee" href="https://ko-fi.com/gauravnelson">
+ <a name="coffee" href="https://liberapay.com/gaurav-nelson">
   <img src="https://i.imgur.com/1Q1YoHz.gif" alt="Buy me a coffee.">
  </a>
 </p>
